@@ -6,6 +6,11 @@ height: 100%;
 font-size: 50px;
 }
 
+div {
+ padding-right: 30px;
+ height: 100%;
+ width: 100%;
+}
 p {
 max-width: 65%; 
 min-width: 500px; 
